@@ -1,0 +1,8 @@
+{
+  "name": "Bilterm",
+  "app_id": "469a5a11",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
